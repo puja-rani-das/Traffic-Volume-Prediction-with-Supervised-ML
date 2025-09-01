@@ -55,4 +55,3 @@ City planners can use the model predictions to:
 This project is for educational purposes and does not have a commercial license.
 
 **Author:** Puja Rani Das  
-**Course / Exam:** Traffic Volume Prediction Practical Exam
